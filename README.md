@@ -1,6 +1,6 @@
 # CodeWars-JS-ES6-Challenges
 
-### EcmaScript and Advanced Modern JavaScript CHALLENGE
+### EcmaScript and Modern JavaScript challenges.
 
 - [**Number of People in the Bus**](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 - [**Quarter of the year**](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
